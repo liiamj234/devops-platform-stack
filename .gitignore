@@ -1,4 +1,11 @@
-# Terraform
-.terraform/
+# Terraform state
 *.tfstate
 *.tfstate.backup
+
+# Terraform lock folder
+.terraform/
+
+# SSH keys
+*.pem
+*-key
+*-key.pub
