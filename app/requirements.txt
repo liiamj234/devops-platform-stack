@@ -3,3 +3,4 @@ uvicorn
 prometheus-client
 flake8
 pytest
+httpx
